@@ -9,6 +9,8 @@ public class Main {
             start += 1;
         }
 
+        int dy;
+
         //1b
         /*int start = 0, fin = 10;
         while (start <= fin){
